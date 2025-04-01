@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💡 Vinícius Mangueira  
 
-<!--
-**Vinicius-Mangueira/Vinicius-Mangueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência de Dados e Inteligência Artificial** na UFPB  
+📊 **Apaixonado por IA & Data Science** | 🔍 Explorando Machine Learning  
+💻 Sempre aprendendo e desenvolvendo projetos inovadores  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim  
+Sou um entusiasta da Inteligência Artificial e Ciência de Dados, sempre buscando aprender e criar soluções inovadoras. Gosto de explorar algoritmos, análise de dados e construir modelos que transformam informação em conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas  
+- 🐍 **Linguagens:** Python, C  
+- 📊 **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn  
+- 🛠 **Outros:** Git, Docker  
+
+## 📬 Entre em contato  
+📧 **Email:** seu.email@email.com  
+🌎 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+🌐 **Portfólio:** [seu-site.com](https://seu-site.com)  
