@@ -13,6 +13,4 @@ Sou um entusiasta da Inteligência Artificial e Ciência de Dados, sempre buscan
 - 🛠 **Outros:** Git, Docker  
 
 ## 📬 Entre em contato  
-📧 **Email:** seu.email@email.com  
-🌎 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-🌐 **Portfólio:** [seu-site.com](https://seu-site.com)  
+📧 **Email:** viniciusmangueira@gmail.com
