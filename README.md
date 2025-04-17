@@ -1,16 +1,24 @@
-# 💡 Vinícius Mangueira  
+💡 Vinícius Mangueira
+🎓 Estudante de Ciência de Dados e Inteligência Artificial na UFPB
+📊 Apaixonado por IA & Data Science | 🔍 Explorando Machine Learning
+💻 Sempre aprendendo e desenvolvendo projetos inovadores
 
-🎓 **Estudante de Ciência de Dados e Inteligência Artificial** na UFPB  
-📊 **Apaixonado por IA & Data Science** | 🔍 Explorando Machine Learning  
-💻 Sempre aprendendo e desenvolvendo projetos inovadores  
+🎓 Data Science and Artificial Intelligence Student at UFPB
+📊 Passionate about AI & Data Science | 🔍 Exploring Machine Learning
+💻 Always learning and building innovative projects
 
-## 🚀 Sobre mim  
+🚀 Sobre mim | About Me
 Sou um entusiasta da Inteligência Artificial e Ciência de Dados, sempre buscando aprender e criar soluções inovadoras. Gosto de explorar algoritmos, análise de dados e construir modelos que transformam informação em conhecimento.
 
-## 🔧 Tecnologias e Ferramentas  
-- 🐍 **Linguagens:** Python, C  
-- 📊 **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn  
-- 🛠 **Outros:** Git, Docker  
+I'm an AI and Data Science enthusiast, always looking to learn and create innovative solutions. I enjoy exploring algorithms, data analysis, and building models that turn information into knowledge.
 
-## 📬 Entre em contato  
-📧 **Email:** viniciusmangueira@gmail.com
+🔧 Tecnologias e Ferramentas | Tools & Technologies
+🐍 Linguagens | Languages: Python, C
+
+📊 Análise de Dados | Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+🛠 Outros | Others: Git, Docker
+
+📬 Entre em contato | Get in Touch
+📧 Email: viniciusmangueira@gmail.com
+
