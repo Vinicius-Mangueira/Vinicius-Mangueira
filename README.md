@@ -1,9 +1,9 @@
-# Vinícius Mangueira
+# Vinícius Rodrigues
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-viniciustrajano-blue?logo=kaggle)](https://www.kaggle.com/viniciustrajano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--mangueira-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/)
 
-💡 *Vinícius Mangueira*  
+💡 *Vinícius Rodrigues*  
 🎓 Estudante de Ciência de Dados e Inteligência Artificial na UFPB  
 📊 Apaixonado por IA & Data Science | 🔍 Explorando Machine Learning  
 💻 Sempre aprendendo e desenvolvendo projetos inovadores
